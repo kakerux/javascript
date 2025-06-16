@@ -16,7 +16,7 @@
 
 // in let we cant do the redeclare but can do reassign and local scope
 // let n = 3
-// n = 13
+// n = 13  you reassigned without redeclaring it
 
 
 //const name 
