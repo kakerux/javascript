@@ -41,9 +41,29 @@
 //     document.write('*')
 // }
 
-for(var n = 1 ; n<=5 ; n++){
-    for(var a=1 ; a<=n ; a++){
-       document.write('*')
 
-    }  
-}
+
+
+// for(var n = 1 ; n<=5 ; n++){
+//     for(var a=1 ; a<=n ; a++){
+//        document.write('*')
+
+//     }  
+//     document.write('<br>')
+// }
+
+// let rows = 5;
+// let cols = 5;
+
+// for (let i = 0; i < rows; i++) {
+//     let line = '';
+//     for (let j = 0; j < cols; j++) {
+//         // Print * on the first or last row, or on the first or last column
+//         if (i === 0 || i === rows - 1 || j === 0 || j === cols - 1) {
+//             line += '*';
+//         } else {
+//             line += ' ';
+//         }
+//     }
+//     console.log(line);
+// }
