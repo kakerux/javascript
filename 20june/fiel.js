@@ -11,15 +11,15 @@
 // }
 
 
-// collection of multiple data - array
+// collection of multiple type of data - array
 // []
-// ordered -  because of -indexing - -- position of element
+// ordered -  because of -indexing - -- position of element or address
 // indexing - start from 0
 
 
 // let ar = ["aman",34,4.5,'B',true]
-// console.log(ar)
-// console.log(ar[3])
+// console.log(ar)  --- it prints values with whole box
+// console.log(ar[3])  ----  prints the no. 3 value
 // for(let i=0 ; i<5 ; i++){
 //     console.log(ar[i])
 // }
@@ -49,7 +49,7 @@
 
 // why indexing starts from 0
 // let ar = [1,2,3,4,5,6,7,8,9,10]
-// for of store the value of array and print them
+// for of store the value of array in a variable and print them if u want
 // for(let vl of ar){
 //     console.log(vl)
 // }

@@ -1,4 +1,4 @@
-// variabkes
+// variables
 
 // var let const
 
@@ -61,16 +61,15 @@
 
 
 
-
+// parseINT MAKES IT IN INTEGER
 // var a = parseInt (prompt("enter a value"))
 // var b =  parseInt (prompt("enter another value"))
-
 // console.log(a+b)
 
 
-var a = prompt("enter a value")
-var b = prompt("enter another value")
-
-console.log(a+b)
+// THIS TAKES THE INPUT AS STRING
+// var a = prompt("enter a value")
+// var b = prompt("enter another value")
+// console.log(a+b)
 
 
