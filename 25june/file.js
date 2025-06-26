@@ -34,7 +34,7 @@ add()
 
 // argument work as a input in function
 // ex. table(8) -- 8 is argument
-// function table("its a parameter") --
+// function table("its a parameter") -- argument store in paramenter
 
 
 

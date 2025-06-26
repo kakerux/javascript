@@ -33,10 +33,10 @@
 // console.log(emp.emp_address[1])
 
 
-// let lang = {
-//         name:'qasim',
-//         emp_language:['java','python','html']
-// }
+let lang = {
+        name:'qasim',
+        emp_language:['java','python','html']
+}
 // lang.emp_language.push('cpp')
 // console.log(lang)
 
@@ -47,13 +47,14 @@
 
 
 // IF YOU WANT TO FIND OUT KEYS USE FOR IN LOOP
-// for(let k in lang){
-    // console.log(k)
+for(let k in lang){
+    console.log(k)
 // console.log(k)
+  break  --- this will braek the loop after 1 value
 
     // IT WILL PRINT VALUES OF OBJECT
-//     console.log(lang[k])
-// }
+    // console.log(lang[k])
+}
 
 
 
