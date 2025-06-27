@@ -46,11 +46,11 @@ let lang = {
 // console.log(lang)
 
 
-// IF YOU WANT TO FIND OUT KEYS USE FOR IN LOOP
+// IF YOU WANT TO FIND OUT KEYS USE FOR IN LOOP ---IT WILL STORE KEYS IN VARIABLE
 for(let k in lang){
     console.log(k)
 // console.log(k)
-  break  --- this will braek the loop after 1 value
+  // break  --- this will braek the loop after 1 value
 
     // IT WILL PRINT VALUES OF OBJECT
     // console.log(lang[k])

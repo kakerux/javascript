@@ -33,12 +33,17 @@
 //     console.log(ar[i])
 // }
 
+
+
+// IN THIS INDEXING WHICH IS EVEN ONLY THAT CAN PRINT
 // for(let i=0 ; i<=9 ;i++){
 //     if(i%2==0){
 //         console.log(ar[i])
 //     }
 // }
 
+
+// IN THIS VALUES THAT ARE EVEN IN ARRAY CAN PRINT
 // for(let i=0 ; i<=9 ;i++){
 //     if(ar[i]%2==0){
 //         console.log(ar[i])
@@ -58,3 +63,4 @@
 // for(let vt in ar){
 //     console.log(vt)
 // }
+// IF YOU WANT TO PRINT ONLY ONE INDEX THAN BREAK THE LOOP 

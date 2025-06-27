@@ -20,7 +20,8 @@
 
 // slice() -- it helps to store the value from between the array  to an 
 // variable so you can perform any function using those values or delete
-// remaing values ( enter the indexing value from where you want to start , enter
+// remaing values , and it did not effect the original array
+//  ( enter the indexing value from where you want to start , enter
 //   the indexing value and add one to it upto where you want it to end)
 // let ar1 = ar.slice(1 , 3)
 // console.log(ar1)

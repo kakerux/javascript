@@ -23,7 +23,7 @@
 // named and anonoumous 
 // currently we were learning named
 
-// what is es x
+// what is es xi
 
 // Arrow function  -- for writing one liner function we use this
 // let fun = () => {return console.log('Hii')}

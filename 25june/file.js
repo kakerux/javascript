@@ -25,7 +25,7 @@ add()
 
 
 // abhi ke liye 2 types ke function user define--- which have to define then call
-//  , predefine--which we have to call only
+//  , predefine--which we have to call only FOR EX . SLICE , SPLICE, 
 // user define is of 4 types
 //1 -> without aurrgument and no return value
 // 2 -> with aurgument and no return value

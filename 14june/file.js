@@ -60,7 +60,7 @@
 // console.log(3.14*r*r)
 
 
-
+// we use prompt to take input
 // parseINT MAKES IT IN INTEGER
 // var a = parseInt (prompt("enter a value"))
 // var b =  parseInt (prompt("enter another value"))
