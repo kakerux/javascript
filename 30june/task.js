@@ -34,5 +34,14 @@ function color(a){
 }
 
 
+
 // make a counter 
 // 0 -> -,+   click on plus it plus and vice versa
+
+let head2 = document.getElementById('head2')
+function sub(){
+    head2.innerHTML = parseInt(head2.innerHTML)-1
+}
+function add(){
+    head2.innerHTML = parseInt(head2.innerHTML)+1
+}
