@@ -41,7 +41,26 @@ function color(a){
 let head2 = document.getElementById('head2')
 function sub(){
     head2.innerHTML = parseInt(head2.innerHTML)-1
+
+
+   if(head2.innerHTML%2==0){
+    head2.style.color="yellow"
+   }
+   else if(head2.innerHTML%2!==0){
+    head2.style.color="black"
+   }
+
+
 }
 function add(){
     head2.innerHTML = parseInt(head2.innerHTML)+1
+
+
+    if(head2.innerHTML%2==0){
+    head2.style.color="yellow"
+   }
+   else if(head2.innerHTML%2!==0){
+    head2.style.color="black"
+   }
+    
 }
