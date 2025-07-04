@@ -1,0 +1,10 @@
+// call back function
+
+// funnction demo(function dd(){})
+
+// the function which is called in argument is call back - dd 
+
+// demo function is called higher order function 
+
+// let ar=[]
+// map(()=>{})- stores element of the array in the new function 
