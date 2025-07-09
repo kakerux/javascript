@@ -30,7 +30,9 @@ btn1.addEventListener('click',()=>{
 })
 
 // .classlist use you can add or remove a class without affecting any
-//  others the element may have then use .add .romove and the class name
+//  others the element may have then use .add .romove .toggle 
+// .contains(class)   .replace(oldClass, newClass)
+//  and the class name
 
 let btn2 = document.querySelector('.btn2')
 btn2.addEventListener('click',()=>{
