@@ -72,25 +72,25 @@ localStorage.setItem('city',city)
 localStorage.setItem('email',email)
 }
 
-let name1 = localStorage.getItem('username')
-let contact1 = localStorage.getItem('contact')
-let age1 = localStorage.getItem('age')
-let city1 = localStorage.getItem('city')
-let email1 = localStorage.getItem('email')
+// let name1 = localStorage.getItem('username')
+// let contact1 = localStorage.getItem('contact')
+// let age1 = localStorage.getItem('age')
+// let city1 = localStorage.getItem('city')
+// let email1 = localStorage.getItem('email')
 
-function show(){
-    let head1 = document.querySelector('#head1')
-    let head2 = document.querySelector('#head2')
-    let head3 = document.querySelector('#head3')
-    let head4 = document.querySelector('#head4')
-    let head5 = document.querySelector('#head5')
+// function show(){
+//     let head1 = document.querySelector('#head1')
+//     let head2 = document.querySelector('#head2')
+//     let head3 = document.querySelector('#head3')
+//     let head4 = document.querySelector('#head4')
+//     let head5 = document.querySelector('#head5')
 
-    head1.textContent=name1
-    head2.textContent=contact1
-    head3.textContent=age1
-    head4.textContent=city1
-    head5.textContent=email1
-}
+//     head1.textContent=name1
+//     head2.textContent=contact1
+//     head3.textContent=age1
+//     head4.textContent=city1
+//     head5.textContent=email1
+// }
 
 let ar = [parseInt(prompt('enter num1')),parseInt(prompt('enter num2')),parseInt(prompt('enter num3')),parseInt(prompt('enter num4')),parseInt(prompt('enter num5')),parseInt(prompt('enter num6')),parseInt(prompt('enter num7')),parseInt(prompt('enter num8')),parseInt(prompt('enter num9')),parseInt(prompt('enter num10')),]
 let sum = 0
