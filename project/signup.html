@@ -4,21 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="/project/signup.css">
 </head>
 <body>
-    <form action="login.html" onsubmit="storedata()">
-        <label for="">Name</label>
-        <input type="text" id="name"><br>
-        <label for="">Contact</label>
-        <input type="text" id="contact"><br>
-        <label for="">Email</label>
-        <input type="text" id="email"><br>
-        <label for="">Password</label>
-        <input type="text" id="pass"><br>
+    <div id="container">
+    <form action="login.html" onsubmit=" return storedata()"  id="form1">
+       
+        <h1>Signup</h1>
+
+        <input type="text" id="name" placeholder="Enter Your Name"><br>
+       
+        <input type="email" id="email" placeholder="Enter Your Email"><br>
         
-        <input type="submit" value="SIGN UP">
+        <input type="password" id="pass" placeholder="Create A Password"><br>
+        
+        <input type="submit" value= "SIGN UP" class="submit">
+
+        <p>already have an account? <a href="/project/login.html">login</a></p>
         
     </form>
+    </div>
 
 
 

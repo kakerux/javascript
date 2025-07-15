@@ -1,5 +1,5 @@
 #div1{
-    width: 200px;
+    
     height: 300px;
     border: 2px black solid;
 }
@@ -10,4 +10,6 @@
 }
 #div{
     display: flex;
+    background-color: red;
+    width: fit-content;
 }
