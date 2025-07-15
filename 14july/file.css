@@ -1,0 +1,13 @@
+#div1{
+    width: 200px;
+    height: 300px;
+    border: 2px black solid;
+}
+#div2{
+    width: 200px;
+    height: 300px;
+    border: 2px black solid;
+}
+#div{
+    display: flex;
+}
