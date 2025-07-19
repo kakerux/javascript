@@ -39,5 +39,3 @@ async function demo(){
 
 demo()
 
-// why do i have to print data in tbody when i have all the data in tablerow, why
-// is not alalyzing that i have made table row and also putted the data in it

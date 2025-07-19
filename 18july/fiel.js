@@ -20,3 +20,21 @@ async function fet() {
 }
 fet()
 
+function postdata(){
+    let frmdata = {
+        name:document.querySelector('#name').value,
+        age:document.querySelector('#age').value,
+        contact:document.querySelector('#contact').value,
+        city:document.querySelector('#city').value,
+    }
+
+    fetch('http://localhost:3000/username',{
+        method:"POST",
+        headers:{
+            'Content-type' :'application/json'
+        },
+        body:JSON.stringify(frmdata)
+    })
+}
+
+
